@@ -1,0 +1,7 @@
+**/.terraform
+**/accounts
+**/account.json
+**/infrastructure.plan
+**/terraform.tfstate
+**/terraform.tfstate.d
+**/terraform.tfstate.backup
